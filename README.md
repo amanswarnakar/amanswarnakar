@@ -5,3 +5,4 @@
 - 📫 How to reach me: amanswarnakar2002@gmail.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: Weeb
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=amanswarnakar)](https://github.com/anuraghazra/github-readme-stats)
