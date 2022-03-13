@@ -14,5 +14,5 @@
 [![Aman's GitHub stats](https://github-readme-stats.vercel.app/api?username=amanswarnakar)](https://github.com/anuraghazra/github-readme-stats)
 
 <a href="https://github.com/amanswarnakar/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=amanswarnakar&repo=github-readme-stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
 </a>
