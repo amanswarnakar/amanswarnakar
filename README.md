@@ -8,9 +8,6 @@
 
 
 ## My Stats
-<div align="center" width="100%">
 [![Aman's GitHub stats](https://github-readme-stats.vercel.app/api?username=amanswarnakar)](https://github.com/amanswarnakar)
-</div>
-<div align="center" width="100%">
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amanswarnakar&layout=compact)](https://github.com/amanswarnakar)
-</div>
