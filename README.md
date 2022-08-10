@@ -8,6 +8,6 @@
 
 
 ## My Stats
-![Aman's GitHub stats](https://github-readme-stats.vercel.app/api?username=amanswarnakar)(https://github.com/amanswarnakar)
+![![Aman's GitHub stats](https://github-readme-stats.vercel.app/api?username=amanswarnakar)](https://github.com/amanswarnakar)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amanswarnakar&layout=compact)(https://github.com/amanswarnakar)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amanswarnakar&layout=compact)](https://github.com/amanswarnakar)
