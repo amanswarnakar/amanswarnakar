@@ -1,6 +1,6 @@
 # Hi there 👋 I am Aman Swarnakar.
 
-- 🔭 I’m currently studying Electronics and Telecommunication Engineering in Army Institute of Technology, Pune.
+- 🔭 I’m currently studying in Army Institute of Technology, Pune.
 - 🌱 I’m currently learning Web Development
 - 📫 How to reach me: amanswarnakar2002@gmail.com
 - 😄 Pronouns: he/him
