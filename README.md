@@ -1,4 +1,4 @@
-<h1 align="center">Hey there 👋 I am Aman Swarnakar.</h1>
+<h1 align="center"><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35px"> Hey there! I am Aman Swarnakar.</h1>
 
 <p align="center">
 🔭 Army Institute of Technology, Pune - 2024<br/>
