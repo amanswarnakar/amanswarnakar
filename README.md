@@ -2,8 +2,8 @@
 
 <p align="center">
 🔭 Army Institute of Technology, Pune - 2024<br/>
-🌱 Currently learning Pyspark<br/>
-👨🏻‍💻 Upcoming BTSA @ ZS Associates<br/>
+🌱 Frontend Developer (ReactJS)<br/>
+👨🏻‍💻 BTSA @ ZS Associates<br/>
 📫 How to reach me: amanswarnakar2002@gmail.com<br/>
 😄 Pronouns: he/him<br/>
 </p>
